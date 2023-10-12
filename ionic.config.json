@@ -1,0 +1,7 @@
+{
+  "name": "authtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
